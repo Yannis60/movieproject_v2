@@ -17,3 +17,5 @@ public class Users {
     public int getAge() {return age;}
 
 }
+// The Users class models a user with private fields for ID, first name, last name, and age, 
+// provides a constructor to initialize these fields, and includes getter methods to access their values safely.
