@@ -4,7 +4,9 @@ public class Ratings {
     private String movie_id;
     private int rating;
 
-    public Ratings(String rating_id, String user_id, String movie_id, int rating) {
+     // Constructor to initialize all fields of the rating
+
+     public Ratings(String rating_id, String user_id, String movie_id, int rating) {
         this.rating_id = rating_id;
         this.user_id = user_id;
         this.movie_id = movie_id;
