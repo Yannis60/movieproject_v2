@@ -1,4 +1,5 @@
 public class Movies {
+    // code for creating objects in the class Movies
     private String movie_id;
     private String title;
     private String genre;
